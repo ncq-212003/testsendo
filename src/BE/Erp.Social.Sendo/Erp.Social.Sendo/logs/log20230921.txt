@@ -1,0 +1,39 @@
+2023-09-21 13:02:57.329 +07:00 [INF] Program started...
+
+2023-09-21 13:04:57.161 +07:00 [INF] Program started...
+
+2023-09-21 13:06:22.646 +07:00 [INF] Program started...
+
+2023-09-21 13:15:14.091 +07:00 [INF] Program started...
+
+2023-09-21 13:15:36.464 +07:00 [INF] Program started...
+
+2023-09-21 13:16:14.079 +07:00 [ERR] 
+class: AccessTokenController 
+func: AddToken 
+msg: There are more columns in the INSERT statement than values specified in the VALUES clause. The number of values in the VALUES clause must match the number of columns specified in the INSERT statement. 
+
+2023-09-21 13:19:22.697 +07:00 [INF] Program started...
+
+2023-09-21 13:20:03.463 +07:00 [ERR] 
+class: AccessTokenServices 
+func: AddOrUpdateInDatabase 
+msg: There are more columns in the INSERT statement than values specified in the VALUES clause. The number of values in the VALUES clause must match the number of columns specified in the INSERT statement. 
+
+2023-09-21 13:20:03.985 +07:00 [ERR] 
+class: AccessTokenController 
+func: AddToken 
+msg: There are more columns in the INSERT statement than values specified in the VALUES clause. The number of values in the VALUES clause must match the number of columns specified in the INSERT statement. 
+
+2023-09-21 13:27:48.571 +07:00 [INF] Program started...
+
+2023-09-21 13:28:24.420 +07:00 [ERR] 
+class: AccessTokenServices 
+func: AddOrUpdateInDatabase 
+msg: There are more columns in the INSERT statement than values specified in the VALUES clause. The number of values in the VALUES clause must match the number of columns specified in the INSERT statement. 
+
+2023-09-21 13:28:24.924 +07:00 [ERR] 
+class: AccessTokenController 
+func: AddToken 
+msg: There are more columns in the INSERT statement than values specified in the VALUES clause. The number of values in the VALUES clause must match the number of columns specified in the INSERT statement. 
+
